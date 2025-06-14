@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Горев Антон 👋
+**Freelance ML Engineer | Data Specialist**
 
-<!--
-**GorevAnton5/GorevAnton5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Специализация:**  
+- Обработка данных (Pandas, SQL)  
+- Машинное обучение (Scikit-learn, TensorFlow)  
+- Развертывание моделей (Flask, Streamlit)  
 
-Here are some ideas to get you started:
+🌱 **Сейчас изучаю:**  
+- Генеративный ИИ (LLM, Diffusion Models)  
+- MLOps (Docker, Kubernetes)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Как связаться:**  
+- Telegram: [@Python1strash](https://t.me/Python1strash)  
+- Почта: gorev6735@gmail.com 
+
+💼 **Портфолио:** 
